@@ -1,1 +1,1 @@
-"# is_the_traffic_collision_fatal" 
+### Is the traffic collision fatal?
